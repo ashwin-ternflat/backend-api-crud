@@ -13,3 +13,4 @@ dnspython==2.6.1  # required for MongoDB Atlas
 httpx==0.27.0      # for testing or making external HTTP calls
 watchfiles==1.1.0  # for autoreload in dev mode
 
+pytest==8.2.2
